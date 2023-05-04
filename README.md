@@ -1,7 +1,7 @@
 # BN-DRISHTI
 Line and Word Segmentation for Bangla Handwritten Text Recognition.
 <br>
-The overall process on how to operate the code is described precicely in the following. For more query (if needed) you can reach out to: jubaer.puc@gmail.com 
+The overall process on how to operate the code is described precicely in the following and in colab notebooks as well. For more query (if needed) you can reach out to: jubaer.puc@gmail.com 
 
 ## How To Run The **DEMO** (Inferencing on Single Image):
 1) Open the [**BN_DRISHTI_DEMO.ipynb**](https://github.com/crusnic-corp/BN-DRISHTI/blob/main/BN_DRISHTI_DEMO.ipynb) script and click on the **Open In Colab** Button.
